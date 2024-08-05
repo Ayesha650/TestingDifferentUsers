@@ -1,0 +1,27 @@
+# Different User here
+# testing merge coflicts
+
+
+
+
+
+#Hello
+
+
+# Different User here Trying to check merge
+# testing merge conflicts
+# Checking conflict on line 3rd
+<<<<<<< HEAD
+# Checking conflict on line 4th
+=======
+# Different User here
+# testing merge coflicts
+#Hello
+#welcome to the world of java
+#I am on 5th line
+#Bhailog jaldi karo
+>>>>>>> f16f2cfcb7b81bc0602e6718c9592d58d29711af
+=======
+# SOmething New
+# GITHUB CONFLICT
+>>>>>>> 5124d4921c38c4687398c9e8e786053750db82ec
