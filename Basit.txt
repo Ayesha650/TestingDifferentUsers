@@ -1,12 +1,14 @@
-<<<<<<< HEAD
+# Different User here
+# testing merge coflicts
+
+
+
+
+
+#Hello
+
+
 # Different User here Trying to check merge
 # testing merge conflicts
 # Checking conflict on line 3rd
-# Checking conflict on line 4th
-=======
-# Different User here
-# testing merge coflicts
-#Hello
-#welcome to the world of java
-#I am on 5th line 
->>>>>>> f16f2cfcb7b81bc0602e6718c9592d58d29711af
+# SOmething New
