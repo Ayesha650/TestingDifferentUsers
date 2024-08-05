@@ -1,2 +1,3 @@
 # Different User here Trying to check merge
 # testing merge conflicts
+# Checking conflict on line 3rd
