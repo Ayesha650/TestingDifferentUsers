@@ -12,3 +12,4 @@
 # testing merge conflicts
 # Checking conflict on line 3rd
 # SOmething New
+# GITHUB CONFLICT
