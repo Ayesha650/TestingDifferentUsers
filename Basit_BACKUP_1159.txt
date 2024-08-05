@@ -6,7 +6,10 @@
 =======
 # Different User here
 # testing merge coflicts
+
+
+
 #Hello
-#welcome to the world of java
-#I am on 5th line 
->>>>>>> f16f2cfcb7b81bc0602e6718c9592d58d29711af
+
+welcome to the world of java 
+>>>>>>> 8da0476ce9f7c6d1ac7ccc3478b8c91840f60e41

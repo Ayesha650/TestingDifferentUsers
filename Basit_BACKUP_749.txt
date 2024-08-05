@@ -1,0 +1,15 @@
+<<<<<<< .merge_file_lgKe0W
+# Different User here 
+# testing merge coflicts
+
+
+
+
+
+#Hello
+ 
+=======
+# Different User here Trying to check merge
+# testing merge conflicts
+# Checking conflict on line 3rd
+>>>>>>> .merge_file_MS8SIp
